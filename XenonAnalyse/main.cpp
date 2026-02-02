@@ -26,11 +26,30 @@ void ReadTable(Image& image, SwitchTable& table)
     uint32_t pOffset;
     ppc_insn insn;
     auto* code = (uint32_t*)image.Find(table.base);
-    ppc::Disassemble(code, table.base, insn);
-    pOffset = insn.operands[1] << 16;
 
-    ppc::Disassemble(code + 1, table.base + 4, insn);
-    pOffset += insn.operands[2];
+    // For patterns that start with LIS, RLWINM, ADDI (Pattern 1 and 4)
+    // we need to get pOffset from positions 0 and 2
+    // For patterns that start with LIS, ADDI (Pattern 2 and 3)
+    // we get pOffset from positions 0 and 1
+
+    if (table.type == SWITCH_ABSOLUTE || table.type == SWITCH_SHORTOFFSET)
+    {
+        // Pattern has RLWINM between LIS and ADDI
+        ppc::Disassemble(code, table.base, insn);
+        pOffset = insn.operands[1] << 16;
+
+        ppc::Disassemble(code + 2, table.base + 8, insn);
+        pOffset += insn.operands[2];
+    }
+    else
+    {
+        // Pattern has LIS, ADDI directly
+        ppc::Disassemble(code, table.base, insn);
+        pOffset = insn.operands[1] << 16;
+
+        ppc::Disassemble(code + 1, table.base + 4, insn);
+        pOffset += insn.operands[2];
+    }
 
     if (table.type == SWITCH_ABSOLUTE)
     {
@@ -49,7 +68,7 @@ void ReadTable(Image& image, SwitchTable& table)
         ppc::Disassemble(code + 4, table.base + 0x10, insn);
         base = insn.operands[1] << 16;
 
-        ppc::Disassemble(code + 5, table.base + 0x14, insn);
+        ppc::Disassemble(code + 6, table.base + 0x18, insn);  // Changed from +5 to +6 for NOP
         base += insn.operands[2];
 
         ppc::Disassemble(code + 3, table.base + 0x0C, insn);
@@ -70,7 +89,7 @@ void ReadTable(Image& image, SwitchTable& table)
             ppc::Disassemble(code + 3, table.base + 0x0C, insn);
             base = insn.operands[1] << 16;
 
-            ppc::Disassemble(code + 4, table.base + 0x10, insn);
+            ppc::Disassemble(code + 5, table.base + 0x14, insn);  // Changed from +4 to +5 for NOPs
             base += insn.operands[2];
 
             for (size_t i = 0; i < table.labels.size(); i++)
@@ -250,16 +269,17 @@ int main(int argc, char** argv)
             }
         };
 
+    // Pattern 1: Absolute switch with RLWINM
     uint32_t absoluteSwitch[] =
     {
         PPC_INST_LIS,
-        PPC_INST_ADDI,
         PPC_INST_RLWINM,
+        PPC_INST_ADDI,
         PPC_INST_LWZX,
         PPC_INST_MTCTR,
-        PPC_INST_BCTR,
     };
 
+    // Pattern 2: Computed switch with NOP
     uint32_t computedSwitch[] =
     {
         PPC_INST_LIS,
@@ -267,30 +287,36 @@ int main(int argc, char** argv)
         PPC_INST_LBZX,
         PPC_INST_RLWINM,
         PPC_INST_LIS,
+        PPC_INST_NOP,
         PPC_INST_ADDI,
         PPC_INST_ADD,
         PPC_INST_MTCTR,
     };
 
+    // Pattern 3: Byte offset switch with TWO NOPs
     uint32_t offsetSwitch[] =
     {
         PPC_INST_LIS,
         PPC_INST_ADDI,
         PPC_INST_LBZX,
         PPC_INST_LIS,
+        PPC_INST_NOP,
         PPC_INST_ADDI,
+        PPC_INST_NOP,
         PPC_INST_ADD,
         PPC_INST_MTCTR,
     };
 
+    // Pattern 4: Word offset switch with NOP
     uint32_t wordOffsetSwitch[] =
     {
         PPC_INST_LIS,
-        PPC_INST_ADDI,
         PPC_INST_RLWINM,
+        PPC_INST_ADDI,
         PPC_INST_LHZX,
         PPC_INST_LIS,
         PPC_INST_ADDI,
+        PPC_INST_NOP,
         PPC_INST_ADD,
         PPC_INST_MTCTR,
     };

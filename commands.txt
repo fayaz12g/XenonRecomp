@@ -1,0 +1,5 @@
+Analyze:
+.\out\build\x64-Clang-Release\XenonAnalyse\XenonAnalyse.exe default.xex kinect_sports_analysis.toml 
+
+Recompile:
+.\out\build\x64-Clang-Release\XenonRecomp\XenonRecomp.exe kinect_sports_recomp.toml ppc_context.h
