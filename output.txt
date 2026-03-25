@@ -1,0 +1,1214 @@
+Recompiling functions... 0.0011396141%
+Recompiling functions... 2.3350694%
+Recompiling functions... 4.668999%
+ERROR: Switch case at 823241F4 is trying to jump outside function: 823241F8
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324208
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324218
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324228
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324238
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324248
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324258
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324268
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324278
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324298
+ERROR: Switch case at 823241F4 is trying to jump outside function: 82324288
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325AE0
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325AE8
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325AF0
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B78
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325AF8
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B00
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B78
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B08
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B10
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B78
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B18
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B20
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B78
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B78
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B78
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B28
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B30
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B38
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B40
+ERROR: Switch case at 82325ADC is trying to jump outside function: 82325B48
+Recompiling functions... 7.0029287%
+ERROR: Switch case at 82365428 is trying to jump outside function: 8236542C
+ERROR: Switch case at 82365428 is trying to jump outside function: 82365438
+ERROR: Switch case at 82365428 is trying to jump outside function: 82365444
+ERROR: Switch case at 823658E4 is trying to jump outside function: 823659D4
+ERROR: Switch case at 823658E4 is trying to jump outside function: 823659F4
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365AF4
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365994
+ERROR: Switch case at 823658E4 is trying to jump outside function: 823659B4
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365A34
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365A14
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365A54
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365AF4
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365908
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365948
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365968
+ERROR: Switch case at 823658E4 is trying to jump outside function: 823658E8
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365928
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365A74
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365A94
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365AB4
+ERROR: Switch case at 823658E4 is trying to jump outside function: 82365AD4
+Recompiling functions... 9.336858%
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A865C
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A84D4
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A84F0
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A861C
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A861C
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A850C
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A8528
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A8540
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A8578
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A8594
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A85D8
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A861C
+ERROR: Switch case at 823A84D0 is trying to jump outside function: 823A85D8
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4A74
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4A84
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4A94
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4A74
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4AA4
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4AA4
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4AB4
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4B14
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4B78
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4AE0
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4BAC
+ERROR: Switch case at 823B4A70 is trying to jump outside function: 823B4AE0
+Recompiling functions... 11.670789%
+Recompiling functions... 14.004718%
+Recompiling functions... 16.338648%
+Recompiling functions... 18.672579%
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF50
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF50
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF50
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEEE4
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEEEC
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEEF4
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEEFC
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF04
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF0C
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF14
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF1C
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF24
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF2C
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF34
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF3C
+ERROR: Switch case at 825EEEE0 is trying to jump outside function: 825EEF44
+Recompiling functions... 21.006506%
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268ED8C
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268EDC8
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268EE14
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268EE3C
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268EEC0
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268EEE8
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268EF18
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268EF48
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F014
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F0D0
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F1D8
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F200
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F374
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F420
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F498
+ERROR: Switch case at 8268ED88 is trying to jump outside function: 8268F4C0
+Recompiling functions... 23.340437%
+Recompiling functions... 25.674366%
+Recompiling functions... 28.008297%
+Recompiling functions... 30.342228%
+Recompiling functions... 32.676155%
+Recompiling functions... 35.010086%
+Recompiling functions... 37.344013%
+Recompiling functions... 39.677944%
+Recompiling functions... 42.011875%
+Recompiling functions... 44.345806%
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B88
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B88
+ERROR: Switch case at 82907B50 is trying to jump outside function: 82907B80
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE0
+ERROR: Switch case at 82907BB0 is trying to jump outside function: 82907BE8
+Recompiling functions... 46.679733%
+ERROR: Switch case at 82931968 is trying to jump outside function: 829319E0
+ERROR: Switch case at 82931968 is trying to jump outside function: 829319D4
+ERROR: Switch case at 82931968 is trying to jump outside function: 829319C8
+ERROR: Switch case at 82931968 is trying to jump outside function: 829319BC
+ERROR: Switch case at 82931968 is trying to jump outside function: 829319B4
+ERROR: Switch case at 82931968 is trying to jump outside function: 829319A8
+ERROR: Switch case at 82931968 is trying to jump outside function: 8293199C
+ERROR: Switch case at 82931968 is trying to jump outside function: 82931990
+ERROR: Switch case at 82931968 is trying to jump outside function: 82931984
+ERROR: Switch case at 82931968 is trying to jump outside function: 82931978
+ERROR: Switch case at 82931968 is trying to jump outside function: 8293196C
+Recompiling functions... 49.013664%
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6EFC
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6EFC
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F14
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F34
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F60
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6EFC
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F14
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F34
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F60
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F88
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6F98
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6FA8
+ERROR: Switch case at 829B6EF8 is trying to jump outside function: 829B6FB8
+Recompiling functions... 51.347595%
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58F84
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58F9C
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58F84
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58F9C
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58FB4
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58F84
+ERROR: Switch case at 82A58F28 is trying to jump outside function: 82A58F9C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A59044
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A58FE0 is trying to jump outside function: 82A5903C
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C8
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A59070 is trying to jump outside function: 82A590C0
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A5913C
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A5913C
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A5913C
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A5913C
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A59144
+ERROR: Switch case at 82A590F0 is trying to jump outside function: 82A5913C
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591DC
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591F0
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591DC
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591F0
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591DC
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591F0
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591DC
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591F0
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591DC
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591F0
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A59200
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591DC
+ERROR: Switch case at 82A59170 is trying to jump outside function: 82A591F0
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5932C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5935C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5933C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5936C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5931C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5934C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5937C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5933C
+ERROR: Switch case at 82A592C0 is trying to jump outside function: 82A5936C
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A593DC
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A593E4
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A59424
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A59424
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A593EC
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A593F4
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A59424
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A59424
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A593FC
+ERROR: Switch case at 82A593B0 is trying to jump outside function: 82A59404
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59530
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59530
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59580
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59580
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A595D8
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A595D8
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59608
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A594E4
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A594E4
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59530
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59530
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A595D8
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A595D8
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59580
+ERROR: Switch case at 82A59478 is trying to jump outside function: 82A59580
+Recompiling functions... 53.681522%
+Recompiling functions... 56.015457%
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB18
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB00
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB10
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB10
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB10
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB10
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CAF0
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB00
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB08
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB08
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB08
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB20
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CAF8
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CAF8
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB20
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB10
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CAF0
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB20
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CB24
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CAF8
+ERROR: Switch case at 82B1CAE0 is trying to jump outside function: 82B1CAE4
+Recompiling functions... 58.349384%
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C810
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C800
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C800
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C810
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C800
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C800
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7E8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C800
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C800
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C800
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F0
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C808
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C7DC is trying to jump outside function: 82C1C7F8
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C84C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C854
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C854
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C854
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C84C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C84C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C854
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C854
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C854
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C864
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C854
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C864
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C874
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C85C
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C864
+ERROR: Switch case at 82C1C848 is trying to jump outside function: 82C1C86C
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8CC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8BC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8BC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8CC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8CC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8C4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8BC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8BC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8CC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8C4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8CC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8C4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8D4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8CC
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8C4
+ERROR: Switch case at 82C1C8B0 is trying to jump outside function: 82C1C8B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA0C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA0C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C914
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C928
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C940
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C960
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9D0
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C914
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C914
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C984
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA5C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9A0
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9DC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9E8
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA34
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA34
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA5C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA14
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA14
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9AC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA04
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA24
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9AC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA04
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA24
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9AC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA04
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA24
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA0C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA34
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA0C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA34
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9AC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA04
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C914
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9AC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9AC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA04
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA34
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9B4
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA34
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA34
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9D0
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9DC
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1C9E8
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA3C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1C910 is trying to jump outside function: 82C1CA2C
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CAB0
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CAC4
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CADC
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CAFC
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB50
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB6C
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CAB0
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CAB0
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB20
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB50
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB3C
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB78
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB84
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB48
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBA0
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBB0
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CB48
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBA0
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBB0
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBA8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBB8
+ERROR: Switch case at 82C1CAAC is trying to jump outside function: 82C1CBC0
+Recompiling functions... 60.68331%
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F38C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3BC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3EC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F414
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F444
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F474
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F588
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4CC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4FC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F52C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F578
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F394
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F39C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3A4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3AC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3B4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3C4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3CC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3D4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3DC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3E4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3F4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F3FC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F404
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F590
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F40C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F41C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F424
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F42C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F434
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F43C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F44C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F454
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F45C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F464
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F46C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F47C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F484
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F48C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F494
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F49C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4A4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4AC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4B4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4BC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4C4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4D4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4DC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4E4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4EC
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F4F4
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F504
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F50C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F514
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F51C
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F524
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F534
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F580
+ERROR: Switch case at 82C3F380 is trying to jump outside function: 82C3F384
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D624
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D634
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D644
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D650
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D65C
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D668
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D680
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D68C
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D5DC
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D5EC
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D674
+ERROR: Switch case at 82C4D5A8 is trying to jump outside function: 82C4D5FC
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D830
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D838
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D840
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D848
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D850
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D858
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D860
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D868
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D870
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D878
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D880
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D888
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D890
+ERROR: Switch case at 82C4D7F4 is trying to jump outside function: 82C4D898
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832D8
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C8332C
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C8332C
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C83308
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832F0
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C8332C
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C83314
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C8332C
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832D0
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832C0
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832FC
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832C8
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C8332C
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C8332C
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832E4
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C832C0
+ERROR: Switch case at 82C83278 is trying to jump outside function: 82C83320
+Recompiling functions... 63.017242%
+Recompiling functions... 65.35117%
+Recompiling functions... 67.685104%
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F44
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F38
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F80
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FB0
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F8C
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F98
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FA4
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FBC
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F68
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F74
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FE0
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB304C
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3064
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3070
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB301C
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB307C
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3058
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F5C
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB30A0
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2F50
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3088
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3094
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FC8
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FD4
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FEC
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB2FF8
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3004
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3010
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3028
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3034
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB3040
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB30AC
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB30B8
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB30C4
+ERROR: Switch case at 82DB2EA8 is trying to jump outside function: 82DB30D0
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3E0C
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3E2C
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DD4
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DD4
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DDC
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DDC
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DD4
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3E14
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3E14
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3E14
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DD4
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DD4
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DDC
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DDC
+ERROR: Switch case at 82DB3D94 is trying to jump outside function: 82DB3DD4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFC68
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFCE4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFC98
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFCE4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFC68
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFCE4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFCE4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFCE4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFC68
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFCE4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFC98
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFCE4
+ERROR: Switch case at 82DBFC30 is trying to jump outside function: 82DBFC68
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFD48
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFDC8
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFD78
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFDC8
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFD48
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFDC8
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFDC8
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFDC8
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFD48
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFDC8
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFD78
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFDC8
+ERROR: Switch case at 82DBFD10 is trying to jump outside function: 82DBFD48
+Recompiling functions... 70.01903%
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE844
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEB04
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEAE8
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEAF8
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEAF0
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE85C
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE888
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE8B4
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE8E0
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE8E0
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE90C
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE938
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE964
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE990
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE9CC
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE9F8
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDE9F8
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEA24
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEA64
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEA90
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEABC
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEAFC
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEAFC
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEB04
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEB04
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEB04
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEB04
+ERROR: Switch case at 82DDE7D0 is trying to jump outside function: 82DDEB04
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF724
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF730
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF7CC
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF73C
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF748
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF79C
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF754
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF760
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF76C
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF778
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF784
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF790
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF7A8
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF7B4
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF7C0
+ERROR: Switch case at 82DEF6E0 is trying to jump outside function: 82DEF7B4
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF230C
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF2338
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF2474
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF2458
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF236C
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF2474
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF2458
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF23E8
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF240C
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF242C
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF236C
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF2398
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF238C
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF247C
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF2458
+ERROR: Switch case at 82DF22C8 is trying to jump outside function: 82DF24C4
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05098
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05088
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05088
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05088
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E04FA0
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E04FB4
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E04FDC
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E04FB4
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05030
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0503C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E04FF8
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E04FA0
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E04FA0
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05004
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05050
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05064
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E0508C
+ERROR: Switch case at 82E04F38 is trying to jump outside function: 82E05088
+Recompiling functions... 72.35297%
+Recompiling functions... 74.68689%
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC53C
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC53C
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC550
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC560
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC560
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC560
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC550
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC568
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC558
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC558
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC550
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC560
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC560
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC548
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC560
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC560
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC580
+ERROR: Switch case at 82EBC538 is trying to jump outside function: 82EBC568
+Recompiling functions... 77.02082%
+Recompiling functions... 79.35475%
+Recompiling functions... 81.688675%
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC304
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC330
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC354
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC378
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC39C
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC304
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC330
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC354
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC378
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC39C
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC304
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC330
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC354
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC378
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC39C
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC3D8
+ERROR: Switch case at 82FEC2BC is trying to jump outside function: 82FEC3E4
+Recompiling functions... 84.02261%
+Recompiling functions... 86.35654%
+Recompiling functions... 88.690475%
+Unrecognized instruction at 0x830B823C: vsubuws
+Unrecognized instruction at 0x830B845C: vsubuws
+Unrecognized instruction at 0x830B84DC: vsubuws
+Unrecognized instruction at 0x830B8530: vsubuws
+vcmpgtuh. at 831109F8 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83110C30 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83110EA4 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 8311130C has RC bit enabled but no comparison was generated
+Recompiling functions... 91.0244%
+vcmpgtuh. at 83111444 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831115FC has RC bit enabled but no comparison was generated
+vcmpgtuh. at 8311703C has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83117148 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831172B4 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831173C0 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831178F4 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83117E34 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 8311836C has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831188AC has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83118B10 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83118D78 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83118EA4 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83118F64 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83119428 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83119900 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83119AD8 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 8311F28C has RC bit enabled but no comparison was generated
+vcmpgtuh. at 8311F398 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 8311F8E8 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 8311FB68 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831200C8 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831201F8 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831202B8 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831207A0 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831209A0 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83120E98 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83120FFC has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83121108 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83121658 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 831218D8 has RC bit enabled but no comparison was generated
+vcmpgtuh. at 83121E38 has RC bit enabled but no comparison was generated
+Recompiling functions... 93.35832%
+Recompiling functions... 95.69226%
+Recompiling functions... 98.026184%
+Unable to decode instruction 45564800 at 8317A358
+Unable to decode instruction 300000 at 8317A370
+Unable to decode instruction B1000000 at 8317A378
+Unable to decode instruction 1000000 at 8317A37C
+Unable to decode instruction 98086B00 at 8317A380
+Unable to decode instruction D02B7400 at 8317A384
+Unable to decode instruction 502C7400 at 8317A388
+Unable to decode instruction A8446B00 at 8317A38C
+Unable to decode instruction B0212400 at 8317A390
+Unable to decode instruction 58212400 at 8317A394
+Unable to decode instruction B85F6B00 at 8317A398
+Unable to decode instruction F85E6B00 at 8317A39C
+Unable to decode instruction A8026B00 at 8317A3A0
+Unable to decode instruction F8206B00 at 8317A3A4
+Unable to decode instruction 20466B00 at 8317A3A8
+Unable to decode instruction C81D2400 at 8317A3AC
+Unable to decode instruction D8026B00 at 8317A3B0
+Unable to decode instruction F8056B00 at 8317A3B4
+Unable to decode instruction 10096B00 at 8317A3B8
+Unable to decode instruction 40906C00 at 8317A3BC
+Unable to decode instruction D88D6C00 at 8317A3C0
+Unable to decode instruction 381F2400 at 8317A3C4
+Unable to decode instruction 1F2400 at 8317A3C8
+Unable to decode instruction F8306B00 at 8317A3CC
+Unable to decode instruction F02F6B00 at 8317A3D0
+Unable to decode instruction 70306B00 at 8317A3D4
+Unable to decode instruction C8236B00 at 8317A3D8
+Unable to decode instruction 202400 at 8317A3DC
+Unable to decode instruction E0277400 at 8317A3E0
+Unable to decode instruction 202400 at 8317A3E4
+Unable to decode instruction 30456B00 at 8317A3E8
+Unable to decode instruction F0936B00 at 8317A3EC
+Unable to decode instruction A05E6B00 at 8317A3F0
+Unable to decode instruction F0DB6D00 at 8317A3F4
+Unable to decode instruction E0276B00 at 8317A3F8
+Unable to decode instruction 70196B00 at 8317A3FC
+Unable to decode instruction A8466B00 at 8317A404
+Unable to decode instruction 701F2400 at 8317A408
+Unable to decode instruction 28246B00 at 8317A40C
+Unable to decode instruction 48286B00 at 8317A410
+Unable to decode instruction D83A6B00 at 8317A414
+Unable to decode instruction B8476B00 at 8317A418
+Unable to decode instruction 503B6B00 at 8317A41C
+Unable to decode instruction 60486B00 at 8317A420
+Unable to decode instruction 80742D01 at 8317A424
+Unable to decode instruction C0202400 at 8317A428
+Unable to decode instruction C01D2400 at 8317A42C
+Unable to decode instruction B0202400 at 8317A430
+Unable to decode instruction D0202400 at 8317A434
+Unable to decode instruction 201E2400 at 8317A438
+Unable to decode instruction 681E2400 at 8317A43C
+Unable to decode instruction D81F2400 at 8317A440
+Unable to decode instruction E0202400 at 8317A444
+Unable to decode instruction 28526B00 at 8317A448
+Unable to decode instruction F04D6B00 at 8317A44C
+Unable to decode instruction 18506B00 at 8317A450
+Unable to decode instruction 38036B00 at 8317A454
+Unable to decode instruction B0C16B00 at 8317A458
+Unable to decode instruction 80406B00 at 8317A45C
+Unable to decode instruction 78256C00 at 8317A460
+Unable to decode instruction 50E47A00 at 8317A464
+Unable to decode instruction 68247400 at 8317A468
+Unable to decode instruction 48436B00 at 8317A46C
+Unable to decode instruction 98426B00 at 8317A470
+Unable to decode instruction 80AB7700 at 8317A474
+Unable to decode instruction 40396B00 at 8317A478
+Unable to decode instruction 882F6B00 at 8317A47C
+Unable to decode instruction D03B6B00 at 8317A480
+Unable to decode instruction 30277400 at 8317A484
+Unable to decode instruction 80277400 at 8317A488
+Unable to decode instruction 888F6C00 at 8317A48C
+Unable to decode instruction 88742D01 at 8317A490
+Unable to decode instruction A0E27A00 at 8317A494
+Unable to decode instruction B8E77A00 at 8317A498
+Unable to decode instruction 70F77100 at 8317A49C
+Unable to decode instruction 84A6B00 at 8317A4A0
+Unable to decode instruction C81B6B00 at 8317A4A4
+Unable to decode instruction 30246C00 at 8317A4A8
+Unable to decode instruction 98286C00 at 8317A4AC
+Unable to decode instruction 10366B00 at 8317A4B0
+Unable to decode instruction 88346B00 at 8317A4B4
+Unable to decode instruction E0247400 at 8317A4B8
+Unable to decode instruction 80207400 at 8317A4BC
+Unable to decode instruction 10EB7A00 at 8317A4C0
+Unable to decode instruction 782B6C00 at 8317A4C4
+Unable to decode instruction D03C6B00 at 8317A4C8
+Unable to decode instruction 782F6B00 at 8317A4CC
+Unable to decode instruction D03C6B00 at 8317A4D0
+Unable to decode instruction E83D6B00 at 8317A4D4
+Unable to decode instruction 48086B00 at 8317A4D8
+Unable to decode instruction E8D86D00 at 8317A4DC
+Unable to decode instruction E83C6B00 at 8317A4E0
+Unable to decode instruction 68246C00 at 8317A4E4
+Unable to decode instruction C08A6C00 at 8317A4E8
+Unable to decode instruction B0246B00 at 8317A4EC
+Unable to decode instruction 78F87100 at 8317A4F0
+Unable to decode instruction 18EA7A00 at 8317A4F4
+Unable to decode instruction 38E97A00 at 8317A4F8
+Unable to decode instruction E0E07A00 at 8317A4FC
+Unable to decode instruction 78E57A00 at 8317A500
+Unable to decode instruction B0227400 at 8317A504
+Unable to decode instruction E0266C00 at 8317A508
+Unable to decode instruction C8246C00 at 8317A50C
+Unable to decode instruction D8246B00 at 8317A510
+Unable to decode instruction 88246C00 at 8317A514
+Unable to decode instruction 98246C00 at 8317A518
+Unable to decode instruction 90246C00 at 8317A51C
+Unable to decode instruction B0246C00 at 8317A520
+Unable to decode instruction 881B6B00 at 8317A524
+Unable to decode instruction 781F2400 at 8317A528
+Unable to decode instruction 2B2400 at 8317A52C
+Unable to decode instruction A0246B00 at 8317A530
+Unable to decode instruction 682F6B00 at 8317A534
+Unable to decode instruction 38396B00 at 8317A538
+Unable to decode instruction A81D6B00 at 8317A53C
+Unable to decode instruction 3C6B00 at 8317A540
+Unable to decode instruction 80AB7700 at 8317A544
+Unable to decode instruction C0246B00 at 8317A548
+Unable to decode instruction 80216C00 at 8317A54C
+Unable to decode instruction E88A6C00 at 8317A550
+Unable to decode instruction 38237400 at 8317A554
+Unable to decode instruction 28267400 at 8317A558
+Unable to decode instruction 30227400 at 8317A55C
+Unable to decode instruction 38217400 at 8317A560
+Unable to decode instruction 981D6B00 at 8317A564
+Unable to decode instruction 88206B00 at 8317A568
+Unable to decode instruction C81F6B00 at 8317A56C
+Unable to decode instruction D01F6B00 at 8317A570
+Unable to decode instruction B8396B00 at 8317A574
+Unable to decode instruction F0DB6D00 at 8317A578
+Unable to decode instruction 788E6C00 at 8317A57C
+Unable to decode instruction D8246C00 at 8317A580
+Unable to decode instruction 98456B00 at 8317A584
+Unable to decode instruction E0297400 at 8317A588
+Unable to decode instruction B0196B00 at 8317A58C
+Unable to decode instruction 80196B00 at 8317A590
+Unable to decode instruction 20426B00 at 8317A594
+Unable to decode instruction 10476B00 at 8317A598
+Unable to decode instruction 68416B00 at 8317A59C
+Unable to decode instruction E8386B00 at 8317A5A0
+Unable to decode instruction 782A6B00 at 8317A5A4
+Unable to decode instruction D81F6B00 at 8317A5A8
+Unable to decode instruction 20257400 at 8317A5AC
+Unable to decode instruction 50287400 at 8317A5B0
+Unable to decode instruction 58516B00 at 8317A5B4
+Unable to decode instruction C02C6B00 at 8317A5B8
+Unable to decode instruction C0E87A00 at 8317A5BC
+Unable to decode instruction 20E77A00 at 8317A5C0
+Unable to decode instruction 70DE7A00 at 8317A5C4
+Unable to decode instruction B0DF7A00 at 8317A5C8
+Unable to decode instruction 18226C00 at 8317A5CC
+Unable to decode instruction 58236C00 at 8317A5D0
+Unable to decode instruction 48226C00 at 8317A5D4
+Unable to decode instruction C0237400 at 8317A5D8
+Unable to decode instruction 60206B00 at 8317A5DC
+Unable to decode instruction 10356B00 at 8317A5E0
+Unable to decode instruction E02C6B00 at 8317A5E4
+Unable to decode instruction F0202400 at 8317A5E8
+Unable to decode instruction B0217400 at 8317A5EC
+Unable to decode instruction C8226C00 at 8317A5F0
+Unable to decode instruction 20266C00 at 8317A5F4
+Unable to decode instruction 18236C00 at 8317A5F8
+Unable to decode instruction 80AB7700 at 8317A5FC
+Unable to decode instruction 40396B00 at 8317A600
+Unable to decode instruction C01D6B00 at 8317A604
+Unable to decode instruction F03B6B00 at 8317A608
+Unable to decode instruction 80AB7700 at 8317A60C
+Unable to decode instruction 80AB7700 at 8317A610
+Unable to decode instruction C02F6B00 at 8317A614
+Unable to decode instruction F8486B00 at 8317A618
+Unable to decode instruction 80AB7700 at 8317A61C
+Unable to decode instruction 58396B00 at 8317A620
+Unable to decode instruction 80AB7700 at 8317A624
+Unable to decode instruction 80AB7700 at 8317A628
+Unable to decode instruction A01D6B00 at 8317A62C
+Unable to decode instruction 582F6B00 at 8317A630
+Unable to decode instruction 48386B00 at 8317A634
+Unable to decode instruction 20246B00 at 8317A638
+Unable to decode instruction 204C6B00 at 8317A63C
+Unable to decode instruction F0287400 at 8317A640
+Recompiling functions... 100%

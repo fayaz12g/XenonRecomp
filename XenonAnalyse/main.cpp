@@ -7,13 +7,6 @@
 #include <fmt/core.h>
 #include "function.h"
 
-//Added Search for and print out register save/load locations
-//modificated from this fork: https://github.com/hedge-dev/XenonRecomp/pull/108
-#include "fmt/xchar.h"
-#include "function.h"
-#include <algorithm>
-#include <file.h>
-
 #define SWITCH_ABSOLUTE 0
 #define SWITCH_COMPUTED 1
 #define SWITCH_BYTEOFFSET 2
@@ -28,69 +21,35 @@ struct SwitchTable
     uint32_t type{};
 };
 
-static const uint8_t RESTGPRLR_14[] = { 0xe9, 0xc1, 0xff, 0x68 };
-static const uint8_t SAVEGPRLR_14[] = { 0xf9, 0xc1, 0xff, 0x68 };
-static const uint8_t RESTFPR_14[] = { 0xc9, 0xcc, 0xff, 0x70 };
-static const uint8_t SAVEFPR_14[] = { 0xd9, 0xcc, 0xff, 0x70 };
-static const uint8_t RESTVMX_14[] = { 0x39, 0x60, 0xfe, 0xe0, 0x7d, 0xcb, 0x60, 0xce };
-static const uint8_t SAVEVMX_14[] = { 0x39, 0x60, 0xfe, 0xe0, 0x7d, 0xcb, 0x61, 0xce };
-static const uint8_t RESTVMX_64[] = { 0x39, 0x60, 0xfc, 0x00, 0x10, 0x0b, 0x60, 0xcb };
-static const uint8_t SAVEVMX_64[] = { 0x39, 0x60, 0xfc, 0x00, 0x10, 0x0b, 0x61, 0xcb };
-
-uint32_t BytePatternSearch(uint8_t* data, const uint32_t dataSize, const uint32_t baseAddress, const uint8_t pattern[], const size_t patternSize)
-{
-    auto result = std::search(data, data + dataSize, pattern, pattern + patternSize);
-    if (result != data + dataSize) {
-        return baseAddress + std::distance(data, result);
-    }
-
-    return UINT32_MAX;
-}
-
-void RegisterFunctionsSearch(Image& image)
-{
-    uint32_t baseAddress = UINT32_MAX;
-
-    for (const auto& section : image.sections) {
-        if (section.name == ".text") {
-            baseAddress = section.base;
-
-            if (baseAddress == UINT32_MAX) {
-                fmt::println("Could not find \".text\" section.");
-                return;
-            }
-
-            uint32_t restgprlr_14 = BytePatternSearch(section.data, section.size, baseAddress, RESTGPRLR_14, sizeof(RESTGPRLR_14));
-            uint32_t savegprlr_14 = BytePatternSearch(section.data, section.size, baseAddress, SAVEGPRLR_14, sizeof(SAVEGPRLR_14));
-            uint32_t restfpr_14 = BytePatternSearch(section.data, section.size, baseAddress, RESTFPR_14, sizeof(RESTFPR_14));
-            uint32_t savefpr_14 = BytePatternSearch(section.data, section.size, baseAddress, SAVEFPR_14, sizeof(SAVEFPR_14));
-            uint32_t restvmx_14 = BytePatternSearch(section.data, section.size, baseAddress, RESTVMX_14, sizeof(RESTVMX_14));
-            uint32_t savevmx_14 = BytePatternSearch(section.data, section.size, baseAddress, SAVEVMX_14, sizeof(SAVEVMX_14));
-            uint32_t restvmx_64 = BytePatternSearch(section.data, section.size, baseAddress, RESTVMX_64, sizeof(RESTVMX_64));
-            uint32_t savevmx_64 = BytePatternSearch(section.data, section.size, baseAddress, SAVEVMX_64, sizeof(SAVEVMX_64));
-
-            fmt::println("restgprlr_14_address = 0x{:X}", restgprlr_14);
-            fmt::println("savegprlr_14_address = 0x{:X}", savegprlr_14);
-            fmt::println("restfpr_14_address = 0x{:X}", restfpr_14);
-            fmt::println("savefpr_14_address = 0x{:X}", savefpr_14);
-            fmt::println("restvmx_14_address = 0x{:X}", restvmx_14);
-            fmt::println("savevmx_14_address = 0x{:X}", savevmx_14);
-            fmt::println("restvmx_64_address = 0x{:X}", restvmx_64);
-            fmt::println("savevmx_64_address = 0x{:X}", savevmx_64);
-        }
-    }
-}
-
 void ReadTable(Image& image, SwitchTable& table)
 {
     uint32_t pOffset;
     ppc_insn insn;
     auto* code = (uint32_t*)image.Find(table.base);
-    ppc::Disassemble(code, table.base, insn);
-    pOffset = insn.operands[1] << 16;
 
-    ppc::Disassemble(code + 1, table.base + 4, insn);
-    pOffset += insn.operands[2];
+    // For patterns that start with LIS, RLWINM, ADDI (Pattern 1 and 4)
+    // we need to get pOffset from positions 0 and 2
+    // For patterns that start with LIS, ADDI (Pattern 2 and 3)
+    // we get pOffset from positions 0 and 1
+
+    if (table.type == SWITCH_ABSOLUTE || table.type == SWITCH_SHORTOFFSET)
+    {
+        // Pattern has RLWINM between LIS and ADDI
+        ppc::Disassemble(code, table.base, insn);
+        pOffset = insn.operands[1] << 16;
+
+        ppc::Disassemble(code + 2, table.base + 8, insn);
+        pOffset += insn.operands[2];
+    }
+    else
+    {
+        // Pattern has LIS, ADDI directly
+        ppc::Disassemble(code, table.base, insn);
+        pOffset = insn.operands[1] << 16;
+
+        ppc::Disassemble(code + 1, table.base + 4, insn);
+        pOffset += insn.operands[2];
+    }
 
     if (table.type == SWITCH_ABSOLUTE)
     {
@@ -109,7 +68,7 @@ void ReadTable(Image& image, SwitchTable& table)
         ppc::Disassemble(code + 4, table.base + 0x10, insn);
         base = insn.operands[1] << 16;
 
-        ppc::Disassemble(code + 5, table.base + 0x14, insn);
+        ppc::Disassemble(code + 6, table.base + 0x18, insn);  // Changed from +5 to +6 for NOP
         base += insn.operands[2];
 
         ppc::Disassemble(code + 3, table.base + 0x0C, insn);
@@ -130,7 +89,7 @@ void ReadTable(Image& image, SwitchTable& table)
             ppc::Disassemble(code + 3, table.base + 0x0C, insn);
             base = insn.operands[1] << 16;
 
-            ppc::Disassemble(code + 4, table.base + 0x10, insn);
+            ppc::Disassemble(code + 5, table.base + 0x14, insn);  // Changed from +4 to +5 for NOPs
             base += insn.operands[2];
 
             for (size_t i = 0; i < table.labels.size(); i++)
@@ -252,8 +211,6 @@ int main(int argc, char** argv)
     const auto file = LoadFile(argv[1]);
     auto image = Image::ParseImage(file.data(), file.size());
 
-       RegisterFunctionsSearch(image);
-    
     auto printTable = [&](const SwitchTable& table)
         {
             println("[[switch]]");
@@ -312,16 +269,17 @@ int main(int argc, char** argv)
             }
         };
 
+    // Pattern 1: Absolute switch with RLWINM
     uint32_t absoluteSwitch[] =
     {
         PPC_INST_LIS,
-        PPC_INST_ADDI,
         PPC_INST_RLWINM,
+        PPC_INST_ADDI,
         PPC_INST_LWZX,
         PPC_INST_MTCTR,
-        PPC_INST_BCTR,
     };
 
+    // Pattern 2: Computed switch with NOP
     uint32_t computedSwitch[] =
     {
         PPC_INST_LIS,
@@ -329,30 +287,36 @@ int main(int argc, char** argv)
         PPC_INST_LBZX,
         PPC_INST_RLWINM,
         PPC_INST_LIS,
+        PPC_INST_NOP,
         PPC_INST_ADDI,
         PPC_INST_ADD,
         PPC_INST_MTCTR,
     };
 
+    // Pattern 3: Byte offset switch with TWO NOPs
     uint32_t offsetSwitch[] =
     {
         PPC_INST_LIS,
         PPC_INST_ADDI,
         PPC_INST_LBZX,
         PPC_INST_LIS,
+        PPC_INST_NOP,
         PPC_INST_ADDI,
+        PPC_INST_NOP,
         PPC_INST_ADD,
         PPC_INST_MTCTR,
     };
 
+    // Pattern 4: Word offset switch with NOP
     uint32_t wordOffsetSwitch[] =
     {
         PPC_INST_LIS,
-        PPC_INST_ADDI,
         PPC_INST_RLWINM,
+        PPC_INST_ADDI,
         PPC_INST_LHZX,
         PPC_INST_LIS,
         PPC_INST_ADDI,
+        PPC_INST_NOP,
         PPC_INST_ADD,
         PPC_INST_MTCTR,
     };

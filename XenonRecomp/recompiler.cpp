@@ -265,6 +265,7 @@ bool Recompiler::Recompile(
     CSRState& csrState)
 {
     println("\t// {} {}", insn.opcode->name, insn.op_str);
+    println("\t{");
 
     // TODO: we could cache these formats in an array
     auto r = [&](size_t index)
@@ -1487,6 +1488,15 @@ bool Recompiler::Recompile(
             println("\t{}.compare<int32_t>({}.s32, 0, {});", cr(0), r(insn.operands[0]), xer());
         break;
 
+    case PPC_INST_MULLHWU:
+        println("\t{}.u64 = (uint64_t({}.u32) * uint64_t({}.u32)) >> 32;",
+            r(insn.operands[0]),
+            r(insn.operands[1]),
+            r(insn.operands[2]));
+        if (strchr(insn.opcode->name, '.'))
+            println("\t{}.compare<int32_t>({}.s32, 0, {});",
+                cr(0), r(insn.operands[0]), xer());
+        break;
 
     case PPC_INST_MULLD:
         println("\t{}.s64 = {}.s64 * {}.s64;", r(insn.operands[0]), r(insn.operands[1]), r(insn.operands[2]));
@@ -3372,6 +3382,28 @@ bool Recompiler::Recompile(
         println("\t}}");
         break;
 
+    case PPC_INST_VSLO128:
+        printSetFlushMode(true);
+        println("\tint shift = simd::extract_u8({}.v128, 15) & 0x1F;", v(insn.operands[2]));
+        println("\tif (shift >= 16) {{");
+        println("\t\t{}.v128 = simd::zero_i128();", v(insn.operands[0]));
+        println("\t}} else {{");
+        println("\t\t{}.v128 = simd::alignr_i8(simd::zero_i128(), {}.v128, 16 - shift);",
+            v(insn.operands[0]), v(insn.operands[1]));
+        println("\t}}");
+        break;
+
+    case PPC_INST_VSRO:
+        printSetFlushMode(true);
+        println("\tsimd::vec128i shift_amt = simd::srli_i16({}.v128, 3);", v(insn.operands[2]));
+        println("\tint shift = simd::extract_u8(shift_amt, 15) & 0x1F;");
+        println("\tif (shift >= 16) {{");
+        println("\t\t{}.v128 = simd::zero_i128();", v(insn.operands[0]));
+        println("\t}} else {{");
+        println("\t\t{}.v128 = simd::alignr_i8({}.v128, simd::zero_i128(), shift);",
+            v(insn.operands[0]), v(insn.operands[1]));
+        println("\t}}");
+        break;
 
     case PPC_INST_VSUBSBS:
         printSetFlushMode(true);
@@ -3387,21 +3419,36 @@ bool Recompiler::Recompile(
 
     }
 
-
+    case PPC_INST_VSRB:
+        printSetFlushMode(true);
+        println(
+            "simd::store_shuffled({}, "
+            "simd::shift_right_logical_i8("
+            "simd::to_vec128i({}), "
+            "simd::and_u8(simd::to_vec128i({}), simd::set1_i8(0x7))));",
+            v(insn.operands[0]),
+            v(insn.operands[1]),
+            v(insn.operands[2]));
+        break;
 
     case PPC_INST_VSUBUBM:
         println("\tsimd::store_u8({}.u8, simd::sub_u8(simd::load_u8({}.u8), simd::load_u8({}.u8)));",
             v(insn.operands[0]), v(insn.operands[1]), v(insn.operands[2]));
         break;
 
-
-    case PPC_INST_BSO:
-        printConditionalBranch(false, "so");
+    case PPC_INST_VSUBUWM:
+        printSetFlushMode(true);
+        println(
+            "\tsimd::store_u32({}.u32, "
+            "simd::sub_u32(simd::load_u32({}.u32), simd::load_u32({}.u32)));",
+            v(insn.operands[0]),
+            v(insn.operands[1]),
+            v(insn.operands[2]));
         break;
 
 
-    case PPC_INST_BSOLR:
-        println("\tif ({}.so) return;", cr(insn.operands[0]));
+    case PPC_INST_BSO:
+        printConditionalBranch(false, "so");
         break;
 
 
@@ -3432,6 +3479,7 @@ bool Recompiler::Recompile(
                          if (midAsmHook != config.midAsmHooks.end() && midAsmHook->second.afterInstruction)
                              printMidAsmHook();
 
+                         println("\t}");
                          return true;
 }
 

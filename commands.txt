@@ -1,0 +1,5 @@
+Analyze:
+.\out\build\x64-Clang-Debug\XenonAnalyse\XenonAnalyse.exe default.xex jump.toml 
+
+Recompile:
+.\out\build\x64-Clang-Debug\XenonRecomp\XenonRecomp.exe recomp.toml .\XenonUtils\ppc_context.h
