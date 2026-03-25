@@ -1,0 +1,20 @@
+[main]
+file_path = "default.xex"
+out_directory_path = "recompiled"
+switch_table_file_path = "kinect_sports_analysis.toml"
+
+# These are required addresses that the tool needs
+restgprlr_14_address = 0x82427180
+savegprlr_14_address = 0x82427130
+restfpr_14_address = 0x82427EDC
+savefpr_14_address = 0x82427E90
+restvmx_14_address = 0x8242A4E8
+savevmx_14_address = 0x8242A250
+restvmx_64_address = 0x8242A57C
+savevmx_64_address = 0x8242A2E4
+
+# Optional settings
+skip_lr = false
+skip_msr = false
+ctr_as_local = false
+xer_as_local = false
