@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\disasm\ppc-dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\disasm\disasm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\disasm\ppc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\disasm\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D074C104-CFD9-37EC-BCFF-885978E76838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CBFA48D2-D936-3E71-BB60-248FF94063BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

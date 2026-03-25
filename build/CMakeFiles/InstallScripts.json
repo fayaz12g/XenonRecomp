@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/thirdparty/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/thirdparty/disasm/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/thirdparty/fmt/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/thirdparty/tomlplusplus/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/thirdparty/xxHash/cmake_unofficial/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/XenonAnalyse/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/XenonRecomp/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/XenonUtils/cmake_install.cmake",
+		"C:/Users/1faya/OneDrive/Documents/GitHub/XenonRecompUnlimited/build/XenonTests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

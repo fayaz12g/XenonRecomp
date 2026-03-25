@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\build\CMakeFiles\ff2f1cb4383a91e1823bd18af6ebe467\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C852E9CE-C5AA-3585-A948-E0CAC0959E0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

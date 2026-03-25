@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\XenonAnalyse\function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\XenonAnalyse\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CBFA48D2-D936-3E71-BB60-248FF94063BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

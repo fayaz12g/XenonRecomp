@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\src\format.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\src\os.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\args.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\chrono.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\compile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\format.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\format-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\os.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\ostream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\printf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\ranges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\std.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\include\fmt\xchar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\README.md" />
+    <None Include="C:\Users\1faya\OneDrive\Documents\GitHub\XenonRecompUnlimited\thirdparty\fmt\ChangeLog.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D074C104-CFD9-37EC-BCFF-885978E76838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CBFA48D2-D936-3E71-BB60-248FF94063BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
